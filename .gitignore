@@ -1,0 +1,47 @@
+# Dependency directory
+node_modules
+
+# .Env
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Logs
+logs
+.log
+npm-debug.log
+
+# Optional npm cache directory
+.npm
+
+# Modern NPM files
+.npmrc
+
+# Foundry files
+cache
+out
+
+# Python virtual environments
+env
+venv
+conda
+
+# Python build files
+dist
+*.egg-info
+
+# Yarn and npm cache directories
+.yarn-cache
+.npm/_cacache
+
+# Yarn and npm global packages
+.yarn/sdks
+.npm-global/
+
+# macOS files
+.DS_Store
+
+# Visual Studio Code files
+.vscode/
